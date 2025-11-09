@@ -210,7 +210,8 @@
 
 ### Kubernetes
 
-* [cetic/helm-nifi](https://github.com/cetic/helm-nifi) - Helm Chart to deploy Apache Nifi on a Kubernetes cluster 
+* [cetic/helm-nifi](https://github.com/cetic/helm-nifi) - Helm Chart to deploy Apache Nifi on a Kubernetes cluster
+* [sakkiii/apache-nifi-helm](https://github.com/sakkiii/apache-nifi-helm) - Helm chart deploys Latest Apache NiFi in a Kubernetes cluster
 
 ### Vagrantfiles
 
